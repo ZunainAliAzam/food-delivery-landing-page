@@ -56,7 +56,7 @@ const Navbar = () => {
         </a>
         <button className="primary-button">Bookings Now</button>
       </div>
-      {/* <div className="navbar-menu-container">
+      {<div className="navbar-menu-container">
         <HiOutlineBars3 onClick={() => setOpenMenu(true)} />
       </div>
       <Drawer open={openMenu} onClose={() => setOpenMenu(false)} anchor="right">
@@ -78,7 +78,7 @@ const Navbar = () => {
           </List>
           <Divider />
         </Box>
-      </Drawer> */}
+      </Drawer>}
     </nav>
   );
 };
