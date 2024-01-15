@@ -84,7 +84,7 @@
     align-items: flex-start;
   }
   .primary-heading {
-    font-size: clamp(2rem, 5vw, 3rem);
+    font-size: clamp(2rem, 5vw, 2.75rem);
     color: #4c4c4c;
     /* line-height: 5rem; */
     max-width: 600px;
@@ -142,7 +142,7 @@
   .primary-subheading {
     font-weight: 700;
     color: #fe9e0d;
-    font-size: 1.15rem;
+    font-size: 1.75rem;
   }
   .about-buttons-container {
     margin-top: 2rem;
@@ -294,7 +294,7 @@
     margin: 1rem 0rem;
   }
   .work-section-bottom {
-    margin-top: 5rem;
+    margin-top: 2rem;
     display: flex;
     justify-content: center;
     align-items: center;
